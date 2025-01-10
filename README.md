@@ -18,4 +18,4 @@
 
 ![asd](https://github-readme-stats.vercel.app/api?username=ayeldev&show_icons=true&hide=prs,issues,&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=ffffff&bg_color=22272e&hide_border=true&show_icons=true)
 
-![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayeldev&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=ffffff&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyelDev&layout=donut&title_color=3382ed&text_color=ffffff&icon_color=ffffff&bg_color=22272e&hide_border=true&show_icons=true)](https://github.com/AyelDev/github-readme-stats)
