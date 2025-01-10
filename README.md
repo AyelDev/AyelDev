@@ -11,3 +11,8 @@
 [![capstone](https://img.shields.io/badge/capstone_project-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/ayeldev"><img src="https://github-readme-stats.vercel.app/api?username=ayeldev&show_icons=true&hide=prs,issues,&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=ffffff&bg_color=22272e&hide_border=true&show_icons=true" alt="ayeldev's GitHub stats" /></a>
+<a href="https://github.com/ayeldev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayeldev&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=ffffff&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
