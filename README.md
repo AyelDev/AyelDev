@@ -1,10 +1,8 @@
 
-# You've reached my profile now!
+# Hi I'm AyelDev!
 
-![cute pic](https://media.tenor.com/AsSfJggfkFcAAAAM/chubby-tonton.gif)
+### Curiosity and creativity have guided me since childhood. My love for art led me to explore technology, especially web and mobile design. This portfolio showcases my journey and the projects I've created.
 
-## Hi, I'm Ariel P. Abelgas!
-### From a young age, I’ve been driven by my own curiosity and creativity. Art has always held a special place in my life, shaping my passions and priorities. Over time, this love for art sparked my interest in technology, leading me to explore website development and mobile application design. In this portfolio, I invite you to take a closer look at my journey and the projects I’ve brought to life.
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
 
